@@ -772,7 +772,7 @@ Changes not staged for commit:
 some code
 =========
 some code
->>>>>>> new-commit
+>>>>>> new-commit
 ```
 
 你需要解决新提交的代码(示例里, 从中间 `==` 线到 `new-commit` 的地方)与 `HEAD` 之间不一样的地方.
